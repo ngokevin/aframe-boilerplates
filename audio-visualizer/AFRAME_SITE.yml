@@ -4,13 +4,13 @@ description: "Hooking up Web Audio AnalyserNode data to box scale and color usin
 mobile: false
 components:
   - title: audio-visualizer
-    file: https://npmcdn.com/aframe-audio-visualizer-components@3.0.1
+    file: https://unpkg.com/aframe-audio-visualizer-components@3.0.1
     source: https://github.com/ngokevin/aframe-audio-visualizer-components
   - title: entity-generator
-    file: https://npmcdn.com/aframe-entity-generator-component@3.0.0
+    file: https://unpkg.com/aframe-entity-generator-component@3.0.0
     source: https://github.com/ngokevin/aframe-entity-generator-component
   - title: layout
-    file: https://npmcdn.com/aframe-layout-component@3.0.1
+    file: https://unpkg.com/aframe-layout-component@3.0.1
     source: https://github.com/ngokevin/aframe-layout-component
   - title: scale-y-color
     file: components/scale-y-color.js

@@ -4,13 +4,13 @@ description: "360&deg; video with `<a-videosphere>`. This example uses `<a-asset
 mobile: true
 components:
   - title: video-controls
-    file: https://npmcdn.com/aframe-video-controls@0.2.1
+    file: https://unpkg.com/aframe-video-controls@0.2.1
     source: https://github.com/oscarmarinmiro/aframe-video-controls
   - title: animation
-    file: https://npmcdn.com/aframe-animation-component@3.0.1
+    file: https://unpkg.com/aframe-animation-component@3.0.1
     source: https://github.com/ngokevin/aframe-animation-component
   - title: event-set
-    file: https://npmcdn.com/aframe-event-set-component@3.0.1
+    file: https://unpkg.com/aframe-event-set-component@3.0.1
     source: https://github.com/ngokevin/aframe-event-set-component
 assets:
   - title: city.mp4
